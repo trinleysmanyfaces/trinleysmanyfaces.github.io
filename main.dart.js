@@ -58853,8 +58853,8 @@ $0(){var s=this.a
 s.d=s.r},
 $S:0}
 E.a2p.prototype={
-$2(a,b){var s=null,r=this.a,q=T.AN(new T.eg(C.Ai,new U.nq(new L.mJ("images/"+C.f.i(b+1)+".png",s,s),new E.a2a(),s),s),12),p=r.d[b]
-return M.n3(C.a1,R.ny(!1,!0,T.abP(H.a([q,C.va,T.AN(O.Xq(p.b,C.J1),1),T.AN(O.Xq(p.c,C.J2),1),T.AN(O.Xq(C.f.i(p.a),C.K2),1)],t.R),C.c3,C.cZ),s,!0,s,s,s,s,s,s,s,s,s,new E.a2b(r,b),s,s,s),s,s,new S.fX(C.yV,s,s,K.NJ(16),s,s,C.al),s,s,s,s)},
+$2(a,b){var s=null,r=this.a,q=r.d[b],p=q.c
+return M.n3(C.a1,R.ny(!1,!0,T.abP(H.a([T.AN(new T.eg(C.Ai,new U.nq(new L.mJ("images/"+p+".png",s,s),new E.a2a(),s),s),12),C.va,T.AN(O.Xq(q.b,C.J1),1),T.AN(O.Xq(p,C.J2),1),T.AN(O.Xq(C.f.i(q.a),C.K2),1)],t.R),C.c3,C.cZ),s,!0,s,s,s,s,s,s,s,s,s,new E.a2b(r,b),s,s,s),s,s,new S.fX(C.yV,s,s,K.NJ(16),s,s,C.al),s,s,s,s)},
 $S:359}
 E.a2b.prototype={
 $0(){var s="https://www.nftexplorer.app/asset/"+C.f.i(this.a.d[this.b].a)
